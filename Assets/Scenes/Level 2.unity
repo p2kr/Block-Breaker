@@ -252,6 +252,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 896107540456670605, guid: f1961fc33433de64ea962237513de6e2, type: 3}
+      propertyPath: gameSpeed
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7711257317245583216, guid: f1961fc33433de64ea962237513de6e2, type: 3}
       propertyPath: m_Name
       value: Game Session
@@ -1540,7 +1544,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9045281015187578400, guid: 251ad490c5838e84baf7434ac9694b6a, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9045281015187578400, guid: 251ad490c5838e84baf7434ac9694b6a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
